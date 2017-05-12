@@ -1,3 +1,7 @@
+## v0.0.2+2
+
+* Moved to https://github.com/flutter/flutterfire
+
 ## v0.0.2+1
 
 * Added workaround for https://github.com/flutter/flutter/issues/9694 to README

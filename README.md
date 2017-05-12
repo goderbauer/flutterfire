@@ -1,13 +1,14 @@
-# Flutter plugins
+# FlutterFire
 
-[![Build Status](https://travis-ci.org/flutter/plugins.svg?branch=master)](https://travis-ci.org/flutter/plugins)
+[![Build Status](https://travis-ci.org/flutter/flutterfire.svg?branch=master)](https://travis-ci.org/flutter/flutterfire)
 
-This repo is a companion repo to the main [flutter
-repo](https://github.com/flutter/flutter). It contains the source code for
-Flutter first-party plugins. Check the `packages` directory for all plugins.
+**WARNING: This is incomplete and experimental.**
 
-Flutter plugins enable access to platform-specific APIs. For more information
-about plugins, and how to use them, see
+FlutterFire connects a Flutter application with
+[Firebase](https://firebase.google.com/) via Flutter plugins. Check the
+`packages` directory for all available Firebase bindings.
+
+For more information about Flutter plugins, and how to use them, see
 [https://flutter.io/platform-plugins/](https://flutter.io/platform-plugins/).
 
 These plugins are also available on
@@ -16,4 +17,4 @@ These plugins are also available on
 ## Issues
 
 Please file any issues, bugs, or feature requests in the main [flutter
-repo](https://github.com/flutter/flutter/issues/new).
+repository](https://github.com/flutter/flutter/issues/new).

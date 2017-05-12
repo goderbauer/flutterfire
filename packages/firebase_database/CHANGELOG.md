@@ -1,3 +1,7 @@
+## 0.0.2+1
+
+* Moved to https://github.com/flutter/flutterfire
+
 ## 0.0.2
 
 * Fix compilation error
